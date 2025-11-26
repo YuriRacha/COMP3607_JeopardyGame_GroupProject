@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"uwi.comp3607.jeopardy"},{"l":"uwi.comp3607.jeopardy.game"},{"l":"uwi.comp3607.jeopardy.io"},{"l":"uwi.comp3607.jeopardy.logging"},{"l":"uwi.comp3607.jeopardy.model"},{"l":"uwi.comp3607.jeopardy.report"}];updateSearchResults();
