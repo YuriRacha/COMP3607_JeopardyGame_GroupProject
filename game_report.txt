@@ -1,0 +1,22 @@
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME1764135280124
+
+Players: wedf, sdf
+
+Gameplay Summary:
+-----------------
+Turn 1: wedf selected Variables & Data Types for 100 pts
+Question: Which of the following declares an integer variable in C++?
+Answer: A — Correct (+100 pts)
+Score after turn: wedf = 100
+
+Turn 2: sdf selected Variables & Data Types for 500 pts
+Question: Which operator is used to get the remainder?
+Answer: B — Correct (+500 pts)
+Score after turn: sdf = 500
+
+Final Scores:
+wedf: 100
+sdf: 500

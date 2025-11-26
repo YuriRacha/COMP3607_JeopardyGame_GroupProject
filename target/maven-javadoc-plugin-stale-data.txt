@@ -1,0 +1,57 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/Lenovo/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.18.0/jackson-databind-2.18.0.jar;C:/Users/Lenovo/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.18.0/jackson-annotations-2.18.0.jar;C:/Users/Lenovo/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.jar;C:/Users/Lenovo/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.18.0/jackson-dataformat-xml-2.18.0.jar;C:/Users/Lenovo/.m2/repository/org/codehaus/woodstox/stax2-api/4.2.2/stax2-api-4.2.2.jar;C:/Users/Lenovo/.m2/repository/com/fasterxml/woodstox/woodstox-core/7.0.0/woodstox-core-7.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Lenovo/Downloads/jeopardy-game/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Lenovo/Downloads/jeopardy-game/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jeopardy-game 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'jeopardy-game 1.0-SNAPSHOT API'
+uwi.comp3607.jeopardy
+uwi.comp3607.jeopardy.game
+uwi.comp3607.jeopardy.io
+uwi.comp3607.jeopardy.logging
+uwi.comp3607.jeopardy.model
+uwi.comp3607.jeopardy.report
+C:\Users\Lenovo\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.18.0\jackson-databind-2.18.0.jar = 1763964447672
+C:\Users\Lenovo\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.18.0\jackson-annotations-2.18.0.jar = 1763964448049
+C:\Users\Lenovo\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.18.0\jackson-core-2.18.0.jar = 1763964448497
+C:\Users\Lenovo\.m2\repository\com\fasterxml\jackson\dataformat\jackson-dataformat-xml\2.18.0\jackson-dataformat-xml-2.18.0.jar = 1763964448075
+C:\Users\Lenovo\.m2\repository\org\codehaus\woodstox\stax2-api\4.2.2\stax2-api-4.2.2.jar = 1763964448096
+C:\Users\Lenovo\.m2\repository\com\fasterxml\woodstox\woodstox-core\7.0.0\woodstox-core-7.0.0.jar = 1763964448573
+C:\Users\Lenovo\Downloads\jeopardy-game\src\main\java\.DS_Store = 1763964250512
+C:\Users\Lenovo\Downloads\jeopardy-game\src\main\java = 1763964250518
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\allclasses-index.html = 1764132713715
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\allpackages-index.html = 1764132713721
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\element-list = 1764132713247
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\help-doc.html = 1764132713783
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\index-all.html = 1764132713770
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\index.html = 1764132713687
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\member-search-index.js = 1764132713733
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\module-search-index.js = 1764132713723
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\overview-summary.html = 1764132713777
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\overview-tree.html = 1764132713670
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\package-search-index.js = 1764132713727
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\search.html = 1764132713774
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\tag-search-index.js = 1764132713738
+C:\Users\Lenovo\Downloads\jeopardy-game\target\reports\apidocs\type-search-index.js = 1764132713730
