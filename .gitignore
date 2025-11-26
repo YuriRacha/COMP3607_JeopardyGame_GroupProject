@@ -1,0 +1,34 @@
+# Maven target directory
+target/
+
+# Compiled class files
+*.class
+
+# Surefire test output
+surefire-reports/
+
+# Javadoc output
+apidocs/
+docs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE files
+# VS Code
+.vscode/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.settings/
+bin/
